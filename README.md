@@ -1,2 +1,3 @@
 # flask-api
-Flask API test
+
+A REST API built using Flask and several extensions.
